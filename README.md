@@ -5,5 +5,5 @@ How to implement automation testing use Nunit and Specflow
 
 Open Visual Studio -> Tools -> Extension Manager ->   Online Gallary -> Search for  'Specflow' and install -> Reboot.
 
-2.Install Nunit 2.6.4
+2.Install Nunit 2.6.4 
 http://www.nunit.org/index.php?p=download 
