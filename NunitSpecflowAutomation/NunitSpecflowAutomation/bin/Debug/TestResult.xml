@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\kzhou\Documents\Visual Studio 2010\Projects\NunitSpecflowAutomation\NunitSpecflowAutomation\bin\Debug\NunitSpecflowAutomation.dll" total="1" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2016-04-27" time="20:14:17">
+  <environment nunit-version="2.6.3.13283" clr-version="2.0.50727.5485" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="C:\NUnit-2.6.3\bin" machine-name="PAS-VXI-29" user="kzhou" user-domain="NEXTESTATE" />
+  <culture-info current-culture="en-US" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="C:\Users\kzhou\Documents\Visual Studio 2010\Projects\NunitSpecflowAutomation\NunitSpecflowAutomation\bin\Debug\NunitSpecflowAutomation.dll" executed="True" result="Success" success="True" time="4.105" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="NunitSpecflowAutomation" executed="True" result="Success" success="True" time="4.085" asserts="0">
+        <results>
+          <test-suite type="TestFixture" name="SpecFlowFeature1Feature" description="SpecFlowFeature1" executed="True" result="Success" success="True" time="4.048" asserts="0">
+            <results>
+              <test-case name="NunitSpecflowAutomation.SpecFlowFeature1Feature.GetCityByCountry" description="GetCityByCountry" executed="True" result="Success" success="True" time="3.643" asserts="1" />
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

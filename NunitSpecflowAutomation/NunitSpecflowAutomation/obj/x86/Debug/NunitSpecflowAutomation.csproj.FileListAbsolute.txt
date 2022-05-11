@@ -1,0 +1,8 @@
+c:\users\kzhou\documents\visual studio 2010\Projects\NunitSpecflowAutomation\NunitSpecflowAutomation\obj\x86\Debug\NunitSpecflowAutomation.csprojResolveAssemblyReference.cache
+c:\users\kzhou\documents\visual studio 2010\Projects\NunitSpecflowAutomation\NunitSpecflowAutomation\bin\Debug\NunitSpecflowAutomation.dll.config
+c:\users\kzhou\documents\visual studio 2010\Projects\NunitSpecflowAutomation\NunitSpecflowAutomation\bin\Debug\NunitSpecflowAutomation.dll
+c:\users\kzhou\documents\visual studio 2010\Projects\NunitSpecflowAutomation\NunitSpecflowAutomation\bin\Debug\NunitSpecflowAutomation.pdb
+c:\users\kzhou\documents\visual studio 2010\Projects\NunitSpecflowAutomation\NunitSpecflowAutomation\bin\Debug\nunit.framework.dll
+c:\users\kzhou\documents\visual studio 2010\Projects\NunitSpecflowAutomation\NunitSpecflowAutomation\bin\Debug\TechTalk.SpecFlow.dll
+c:\users\kzhou\documents\visual studio 2010\Projects\NunitSpecflowAutomation\NunitSpecflowAutomation\obj\x86\Debug\NunitSpecflowAutomation.dll
+c:\users\kzhou\documents\visual studio 2010\Projects\NunitSpecflowAutomation\NunitSpecflowAutomation\obj\x86\Debug\NunitSpecflowAutomation.pdb
